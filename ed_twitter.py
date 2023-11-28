@@ -12,10 +12,10 @@ pip install git+https://github.com/tweepy/tweepy.git
 import tweepy
 import pandas as pd
 
-#consumer_key = "9U6HwDLBJfI9ijdTywxF7jtLE" # API/Consumer key
-#consumer_secret = "0nJ2GLxgZ5d8dR2CM1rcbZsR11eaFbZ2mJY1tB7mQRWM6lALDP" # API/Consumer Secret Key
-#access_token = "1711915345932435456-wO46bcjRehRCbGDyAXJAnJWKH8k0ts"    # Access Token key
-#access_token_secret = "pYR6JmOx86lqkFwNnMO7pWTl0QG9rBUoi4Qrr5COpTaAB" # Access Token Secret key
+#consumer_key = "xxxxxxxxxx" # API/Consumer key
+#consumer_secret = "xxxxxxxxxx" # API/Consumer Secret Key
+#access_token = "xxxxxxxxxx"    # Access Token key
+#access_token_secret = "xxxxxxxxxx" # Access Token Secret key
 
 # Pass twitter API authentication key
 auth = tweepy.OAuth1UserHandler(
